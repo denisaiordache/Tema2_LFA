@@ -1,0 +1,10 @@
+Numar stari: 2
+Stari DFA_min: [[0, 1], [2, 3, 4]]
+Alfabet: ['a', 'b']
+Stare initiala: [0, 1]
+Numar stari finale: 1
+Stari finale DFA min: [[2, 3, 4]]
+Numar translatari: 3
+[0, 1]a[0, 1]
+[0, 1]b[2, 3, 4]
+[2, 3, 4]a[2, 3, 4]

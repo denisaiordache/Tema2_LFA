@@ -1,0 +1,14 @@
+Numar stari: 4
+Stari DFA: [[0], [0, 1], [1, 2], [1]]
+Alfabet DFA: ['a', 'b']
+Stare initiala: 0
+Numar stari finale: 1
+Stari finale DFA: ['[1, 2]']
+Numar translatari: 7
+[0]a[0, 1]
+[0, 1]a[0, 1]
+[0, 1]b[1, 2]
+[1, 2]a[1]
+[1, 2]b[1, 2]
+[1]a[1]
+[1]b[1, 2]
